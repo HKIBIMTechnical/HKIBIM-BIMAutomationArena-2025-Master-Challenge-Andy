@@ -1,0 +1,21 @@
+Tekla Structures Educational 2024 Service Pack 6
+
+
+********************************************
+Total selected objects:             1256
+Successful exports:                 1256
+----------------------------------+---------
+Exported objects
+ Beams                              1011
+ Members                            245
+--------------------------------------------
+ -IfcProject        Project 
+   -IfcSite           Undefined 
+     -IfcBuilding       Undefined (1256)
+       -IfcBuildingStorey Undefined (1256)
+--------------------------------------------
+Included property set definition files:
+ pset1: C:\ProgramData\Trimble\Tekla Structures\2024.0\environments\common\inp\Surface geometry view default properties.xml
+********************************************
+
+Elapsed time: 2.0 seconds.
