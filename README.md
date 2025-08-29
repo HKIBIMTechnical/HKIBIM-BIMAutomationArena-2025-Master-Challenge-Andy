@@ -1,4 +1,4 @@
-# Master Challenge
+# Master Challenge - Andy Zhu
 
 ![image](https://github.com/HKIBIMTechnical/HKIBIM-BIMAutomationArena-2025-Master-Challenge-Andy/blob/main/image/image.png)
 
