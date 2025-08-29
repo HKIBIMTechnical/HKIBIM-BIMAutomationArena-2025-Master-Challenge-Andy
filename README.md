@@ -1,4 +1,6 @@
-# HKIBIM_BIM_Automation_Arena_2025
+# Master Challenge
+
+![image](https://github.com/HKIBIMTechnical/HKIBIM-BIMAutomationArena-2025-Master-Challenge-Andy/blob/main/image/image.png)
 
 ## Overview
 This project is a Streamlit-based web application for the HKIBIM BIM Automation Arena 2025 Master Challenge. It demonstrates advanced BIM automation workflows, multi-software integration, and AI-powered features for the AEC industry. The app showcases parametric modeling, automation scripts, and interactive 3D visualization, integrating tools such as Digital Project, Rhino, Grasshopper, Tekla, Navisworks, Matlab, and more.
